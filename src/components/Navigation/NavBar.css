@@ -1,0 +1,10 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-content: space-evenly;
+    padding-left: 40px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
